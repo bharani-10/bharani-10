@@ -102,6 +102,5 @@ GitHub: https://github.com/bharani-10
 
 ---
 
-## ⭐
 
-Always learning. Always building. Always improving.
+## ⭐Always learning. Always building. Always improving.
