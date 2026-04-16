@@ -3,12 +3,14 @@
 **Machine Learning & Generative AI Engineer | Backend Developer**
 
 ---
+🧠 About Me
 
-## 🧠 About
+I am a passionate Machine Learning Engineer focused on building intelligent systems that solve real-world problems. I enjoy working on AI models, backend integration, and scalable applications.
 
-Machine Learning Engineer focused on building scalable and practical AI solutions. Experienced in developing predictive models, designing intelligent systems, and integrating machine learning with backend systems for real-world applications.
-
----
+🤖 Experience in ML model development (Regression & Classification)
+🧩 Built AI-based systems like chatbots and prediction models
+⚡ Interested in Generative AI, LLMs, and RAG systems
+🔧 Strong in Python, APIs, and backend development
 
 ## 🛠️ Technical Skills
 
@@ -83,11 +85,7 @@ Machine Learning • Generative AI • Backend Systems • Scalable AI Applicati
 
 ---
 
-## 📈 GitHub Stats
 
-![Bharani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bharani-10\&show_icons=true\&theme=default)
-
----
 
 ## 🔥 Top Languages
 
