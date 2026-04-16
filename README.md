@@ -8,8 +8,11 @@
 I am a passionate Machine Learning Engineer focused on building intelligent systems that solve real-world problems. I enjoy working on AI models, backend integration, and scalable applications.
 
 🤖 Experience in ML model development (Regression & Classification)
+
 🧩 Built AI-based systems like chatbots and prediction models
+
 ⚡ Interested in Generative AI, LLMs, and RAG systems
+
 🔧 Strong in Python, APIs, and backend development
 
 ## 🛠️ Technical Skills
