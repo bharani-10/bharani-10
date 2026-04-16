@@ -1,92 +1,65 @@
-# 👋 Hi, I'm Bharani R
+# Bharani R
 
-🚀 **Machine Learning & Generative AI Engineer | Backend Developer**
-
----
-
-## 🧠 About Me
-
-I am a passionate Machine Learning Engineer focused on building intelligent systems that solve real-world problems. I enjoy working on AI models, backend integration, and scalable applications.
-
-* 🤖 Experience in ML model development (Regression & Classification)
-* 🧩 Built AI-based systems like chatbots and prediction models
-* ⚡ Interested in Generative AI, LLMs, and RAG systems
-* 🔧 Strong in Python, APIs, and backend development
+**Machine Learning & Generative AI Engineer | Backend Developer**
 
 ---
 
-## 🛠️ Tech Stack
+## About
 
-### 💻 Languages
-
-* Python
-* Java
-* SQL
-
-### 🤖 Machine Learning
-
-* Scikit-learn
-* Pandas
-* NumPy
-
-### ⚙️ Backend & Tools
-
-* FastAPI
-* REST APIs
-* Git & GitHub
-* VS Code
+I am a Machine Learning Engineer focused on building scalable and practical AI solutions. My work involves developing predictive models, designing intelligent systems, and integrating machine learning with backend applications.
 
 ---
 
-## 🚀 Projects
+## Technical Skills
 
-### 🌦️ Weather Forecasting System
+**Programming Languages**
+Python, Java, SQL
 
-* Built a machine learning model using **Random Forest**
-* Performed **data preprocessing & feature engineering**
-* Applied both **regression and classification techniques**
-* Evaluated using accuracy, precision, and recall
+**Machine Learning**
+Supervised Learning, Unsupervised Learning, Model Evaluation, Feature Engineering
+Scikit-learn, Pandas, NumPy
 
----
+**Generative AI**
+LLMs, LLaMA, NLP, Transformers, RAG
+SpeechT5, LangChain, FAISS, Groq
 
-### 🤖 AI Placement Preparation Chatbot
+**Backend Development**
+FastAPI, REST APIs
 
-* Developed a **multi-agent AI system**
-* Agents handle:
-
-  * Resume analysis
-  * Question generation
-  * Answer evaluation
-* Used **prompt engineering** to improve response quality
+**Tools & Technologies**
+Git, GitHub, VS Code
 
 ---
 
-## 📊 Skills & Focus
+## Projects
 
-* Machine Learning Pipelines
-* Model Evaluation & Optimization
-* Backend + AI Integration
-* Real-world AI Applications
+**Weather Forecasting System**
 
----
+* Developed a machine learning model using Random Forest for prediction
+* Performed data preprocessing and feature engineering
+* Applied regression and classification techniques
+* Evaluated performance using standard metrics
 
-## 📈 GitHub Stats
+**AI Placement Preparation Chatbot**
 
-![Bharani's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharani-10\&show_icons=true\&theme=radical)
-
----
-
-## 🔥 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bharani-10\&layout=compact\&theme=radical)
+* Built a multi-agent AI system for interview preparation
+* Implemented modules for resume analysis, question generation, and evaluation
+* Applied prompt engineering to improve response relevance
 
 ---
 
-## 📫 Connect With Me
+## Areas of Interest
 
-* GitHub: https://github.com/bharani-10
+Machine Learning • Generative AI • Backend Systems • Scalable AI Applications
 
 ---
 
-⭐ *Always learning. Always building. Always improving.*
+## GitHub
 
+https://github.com/bharani-10
+
+---
+
+## Summary
+
+Focused on building efficient, scalable, and real-world AI solutions with clean and maintainable code.
