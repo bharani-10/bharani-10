@@ -24,10 +24,13 @@ LLMs, LLaMA, NLP, Transformers, RAG
 SpeechT5, LangChain, FAISS, Groq
 
 **Backend Development**
-FastAPI, REST APIs
+FastAPI, REST APIs,Django,Flask
+
+**Database**
+MySQL,PostgreSQL
 
 **Tools & Technologies**
-Git, GitHub, VS Code
+Git, GitHub, VS Code,Streamlit,Render
 
 ---
 
