@@ -93,7 +93,7 @@ Machine Learning • Generative AI • Backend Systems • Scalable AI Applicati
 
 ## 📫 Connect With Me
 
-Linkedn: https://www.linkedin.com/in/bharani-r-70932b2b4/
+Linkedin: https://www.linkedin.com/in/bharani-r-70932b2b4/
 
 Gmail: bharanir1010@gmail.com
 
