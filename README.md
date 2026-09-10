@@ -90,14 +90,11 @@ Machine Learning • Generative AI • Backend Systems • Scalable AI Applicati
 
 
 
-## 🔥 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bharani-10\&layout=compact\&theme=default)
-
----
 
 ## 📫 Connect With Me
 
+Linkedn: https://www.linkedin.com/in/bharani-r-70932b2b4/
+Gmail: bharanir1010@gmail.com
 GitHub: https://github.com/bharani-10
 
 ---
